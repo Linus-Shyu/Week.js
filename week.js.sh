@@ -16,6 +16,9 @@ echo -e '\033[32m                                           /$$  | $$          '
 echo -e '\033[32m                                          |  $$$$$$/          '
 echo -e '\033[32m                                           \______/           '
 
+cd ~
+cd desktop
+
 mkdir project
 
 cd project
