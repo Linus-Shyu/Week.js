@@ -56,9 +56,7 @@ echo '{
   "license": "ISC"
 }' > package.json
 
-echo "See you next develop time! please give week.js a star on github!"
-
-
+echo -e "\033[32mSee you next develop time! please give week.js a star on github!"
 
 
 
