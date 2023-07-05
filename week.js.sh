@@ -1,6 +1,8 @@
 #!/bin/bash
 echo -e "\033[32mVersion 1.0.0🎉"
-echo -e "\033[32mWriter: Ether Guy"
+echo -e "\033[32mWriter: LinusShyu"
+echo -e "\033[32mGithub: https://github.com/Linus-Shyu/Week.js"
+
 
 echo -e "\033[32mThis is Week.js my friend!"
 
@@ -54,7 +56,11 @@ echo '{
   "license": "ISC"
 }' > package.json
 
-echo "See you next develop time!"
+echo "See you next develop time! please give week.js a star on github!"
+
+
+
+
 
 
 
