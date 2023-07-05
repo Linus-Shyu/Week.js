@@ -6,13 +6,13 @@ I adapted web3 for this framework, enabling blockchain practitioners to quickly 
 ## install
 
 ```shell
-npm i @etherguy-linusshyu/week.js
+npm i @etherguy-linusshyu/week
 ```
 
 ## use
 
 ```shell
-cd node_modules/@etherguy-linusshyu/week.js 
+cd node_modules/@etherguy-linusshyu/week
 bash week.js.sh
 ```
 
