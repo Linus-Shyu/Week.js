@@ -1,6 +1,14 @@
 {
-    "name": "@etherguy-linusshyu/week",
-    "version": "1.0.0",
+    "name": "@etherguy-linusshyu/week.js",
+    "version": "2.0.0",
     "license": "MIT",
-    "keywords": ["web3","html","javascript","css"]
+    "keywords": [
+        "web3",
+        "html",
+        "javascript",
+        "css",
+        "ethers.js",
+        "web",
+        "shell-script"
+    ]
 }
