@@ -12,15 +12,15 @@ npm i @etherguy-linusshyu/week
 ## use
 
 ```shell
-cd cd node_modules/@etherguy-linusshyu/week 
+cd node_modules/@etherguy-linusshyu/week 
 bash week.js.sh
 ```
 
 ## About me
 
-![YouTube](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
-![Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
-![Blog](https://linus-shyu.github.io/)
+[YouTube](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
+[Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
+[Blog](https://linus-shyu.github.io/)
 
 ## License
 
