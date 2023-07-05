@@ -5,7 +5,7 @@ I adapted web3 for this framework, enabling blockchain practitioners to quickly 
 
 ## install
 
-```node
+```shell
 npm i @etherguy-linusshyu/week.js
 ```
 
