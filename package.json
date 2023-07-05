@@ -1,4 +1,6 @@
 {
-"name": "@etherguy-linusshyu/week",
-"version": "1.0.0"
+    "name": "@etherguy-linusshyu/week",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": ["web3","html","javascript","css"]
 }
