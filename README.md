@@ -26,7 +26,7 @@ bash week.js.sh
 
 MIT License 2023 LinusShyu
 
-#Update
+# Update
 
 Version 0.1.1
 info:
