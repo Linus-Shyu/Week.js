@@ -25,3 +25,10 @@ bash week.js.sh
 ## License
 
 MIT License 2023 LinusShyu
+
+#Update
+
+Version 0.1.1
+info:
+Write name system.You can easily to create a new project🎉
+=====================================================================================
