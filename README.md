@@ -16,6 +16,12 @@ cd node_modules/@etherguy-linusshyu/etherweek
 bash week.js.sh
 ```
 
+## Update
+
+```shell
+npm update @etherguy-linusshyu/etherweek --save
+```
+
 ## About me
 
 [Github](https://github.com/Linus-Shyu)
