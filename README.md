@@ -16,7 +16,7 @@ cd node_modules/@etherguy-linusshyu/etherweek
 bash week.js.sh
 ```
 
-## Update
+## Update npm package
 
 ```shell
 npm update @etherguy-linusshyu/etherweek --save
