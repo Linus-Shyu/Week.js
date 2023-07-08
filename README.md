@@ -30,8 +30,6 @@ MIT License 2023 LinusShyu
 
 Version 0.1.1
 
-information:
-
-Write name system.You can easily to create a new project🎉
+information: Write name system.You can easily to create a new project🎉
 
 =====================================================================================
