@@ -22,7 +22,7 @@ bash week.js.sh
 npm update @etherguy-linusshyu/etherweek --save
 ```
 
-# Community
+## Community
 
 [![LinusShyu Community](https://img.shields.io/badge/-Community-blue)](https://discord.gg/mWsge7Ju9W)
 [![LinusShyu Youtube](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
