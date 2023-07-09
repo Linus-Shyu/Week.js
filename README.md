@@ -22,11 +22,11 @@ bash week.js.sh
 npm update @etherguy-linusshyu/etherweek --save
 ```
 
-## About me
+# Community
 
-[Github](https://github.com/Linus-Shyu)
-[YouTube](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
-[Bilibili](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
+[![LinusShyu Community](https://img.shields.io/badge/-Community-blue)](https://discord.gg/mWsge7Ju9W)
+[![LinusShyu Youtube](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/channel/UC4KtR-YsWDfWtikRGOZb58Q)
+[![LinusShyu Bilibili](https://img.shields.io/badge/-Bilibili-blue)](https://space.bilibili.com/411591950?spm_id_from=333.1007.0.0)
 
 ## License
 
