@@ -36,6 +36,12 @@ MIT License 2023 LinusShyu
 
 Version 0.1.1
 
-information: Write name system.You can easily to create a new project🎉
+Update information: Write name system.You can easily to create a new project🎉
+
+-------------------------------------------------------------------------------------
+
+Version 0.1.4
+
+Update information: Fix⚠️ Issues with creating new files on the desktop
 
 -------------------------------------------------------------------------------------
