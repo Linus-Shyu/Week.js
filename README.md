@@ -45,3 +45,9 @@ Version 0.1.4
 Update information: Fix⚠️ Issues with creating new files on the desktop
 
 -------------------------------------------------------------------------------------
+
+Version 0.1.5
+
+Update information: Write outside css style system.
+
+-------------------------------------------------------------------------------------
