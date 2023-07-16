@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e "\033[32m        --------"
-echo -e "\033[32mVersion |1.0.4🎉|"
+echo -e "\033[32mVersion |1.0.1🎉|"
 echo -e "\033[32m        --------"
 echo -e " "
 echo -e "\033[32mWriter: LinusShyu"
