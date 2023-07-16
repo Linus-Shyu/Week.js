@@ -54,6 +54,7 @@ Update information: Write name system.You can easily to create a new project🎉
 Version 0.1.2
 
 Update information: Fix⚠️ The bug of week.js cannot be used globally
+
                     Fix⚠️ Global variable invalidation problem
 
 -------------------------------------------------------------------------------------
