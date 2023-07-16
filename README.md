@@ -45,16 +45,23 @@ MIT License
 
 Version 0.1.1
 
-Update information: Write name system.You can easily to create a new project🎉
-                    Write application fast reboot system🎉
-                    write outside css style system🎉
+Update information: 
+
+Write name system.You can easily to create a new project🎉
+
+Write application fast reboot system🎉
+                    
+write outside css style system🎉
 
 -------------------------------------------------------------------------------------
 
 Version 0.1.2
 
-Update information: Fix⚠️ The bug of week.js cannot be used globally
-                    Fix⚠️ Global variable invalidation problem
+Update information:
+
+Fix⚠️ The bug of week.js cannot be used globally
+
+Fix⚠️ Global variable invalidation problem
 
 -------------------------------------------------------------------------------------
 
