@@ -6,20 +6,29 @@ I adapted web3 for this framework, enabling blockchain practitioners to quickly 
 ## install
 
 ```shell
-npm i @etherguy-linusshyu/etherweek
+npm i @etherguy-linusshyu/weekend
 ```
 
 ## use
 
 ```shell
-cd node_modules/@etherguy-linusshyu/etherweek
-bash week.js.sh
+vim open -e .zshrc 
+alias weekend="node_modules/@etherguy-linusshyu/weekend/week.js.sh"
+sudo chmod 777 node_modules/@etherguy-linusshyu/weekend/week.js.sh
+```
+
+```shell
+source ~/.zshrc
+```
+
+```shell
+weekend
 ```
 
 ## Update npm package
 
 ```shell
-npm update @etherguy-linusshyu/etherweek --save
+npm update @etherguy-linusshyu/weekend --save
 ```
 
 ## Community
@@ -30,24 +39,22 @@ npm update @etherguy-linusshyu/etherweek --save
 
 ## License
 
-MIT License 2023 LinusShyu
+MIT License
 
 ## Update
 
 Version 0.1.1
 
 Update information: Write name system.You can easily to create a new project🎉
+                    Write application fast reboot system🎉
+                    write outside css style system🎉
 
 -------------------------------------------------------------------------------------
 
-Version 0.1.4
+Version 0.1.2
 
-Update information: Fix⚠️ Issues with creating new files on the desktop
-
--------------------------------------------------------------------------------------
-
-Version 0.1.5
-
-Update information: Write outside css style system.
+Update information: Fix⚠️ The bug of week.js cannot be used globally
+                    Fix⚠️ Global variable invalidation problem
 
 -------------------------------------------------------------------------------------
+
